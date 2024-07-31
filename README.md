@@ -3,6 +3,7 @@
 A brief description of what this project does and its purpose.
 
 ## Repository Structure
+```sh
 root_directory/
 │
 ├── DataSets/
@@ -13,6 +14,7 @@ root_directory/
 ├── notebook1.ipynb
 ├── notebook2.ipynb
 └── ...
+```
 
 ## Datasets
 
