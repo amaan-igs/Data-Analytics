@@ -1,6 +1,6 @@
 # Data-Analytics
 
-A brief description of what this project does and its purpose.
+![image](https://github.com/user-attachments/assets/670fda05-8381-4e6d-9c2b-68c2f254a798)
 
 ## Repository Structure
 ```sh
