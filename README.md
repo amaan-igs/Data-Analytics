@@ -1,4 +1,5 @@
 # Data-Analytics
+![image](https://github.com/user-attachments/assets/0616e064-057b-4f26-a1e9-ce8cfda2147d)
 
 ## Repository Structure
 ```sh
