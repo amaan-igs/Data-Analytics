@@ -23,7 +23,6 @@ The `DataSets` folder contains the datasets used in this project.
 
 The root directory contains Jupyter notebooks.
 
-
 ## Getting Started
 
 ### Prerequisites
