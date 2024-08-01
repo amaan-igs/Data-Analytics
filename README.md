@@ -5,12 +5,17 @@
 ```sh
 root_directory/
 │
+├── ipynb_checkpoints/
+│ └── ...
+|
 ├── DataSets/
 │ ├── dataset1.csv
 │ ├── dataset2.csv
 │ └── ...
 │
-├── ipynb_checkpoints/
+├── Learning-P&S/
+│ ├── Probability  Statistics Lecture 1
+| ├── Probability  Statistics Lecture 2
 │ └── ...
 │
 ├── Self-Prac/
