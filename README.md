@@ -10,9 +10,17 @@ root_directory/
 │ ├── dataset2.csv
 │ └── ...
 │
-├── notebook1.ipynb
-├── notebook2.ipynb
-└── ...
+├── ipynb_checkpoints/
+│ └── ...
+│
+├── Self-Prac/
+│ ├── Data/
+│ │ ├── ...
+│ │ └── ...
+│ │
+│ ├── notebook1.ipynb
+│ ├── notebook2.ipynb
+│ └── ...
 ```
 
 ## Datasets
