@@ -1,3 +1,4 @@
+### Created a Cutsom Library to export Methods directly for Practice  
 def Total(Lst):
     cout = 0
     for i in Lst:
