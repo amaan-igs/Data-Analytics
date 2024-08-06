@@ -21,6 +21,6 @@ ENV/
 # Ignore Jupyter Notebook extension configuration
 .nbextensions
 
-# Ignore other common IDE files
+# Ignore other common IDE files like VScode and pycharm
 .vscode/
 .idea/
