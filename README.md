@@ -18,6 +18,7 @@ The root directory contains Jupyter notebooks.
 - pandas
 - numpy
 - matplotlib
+- seaborn
 
 ### Install the necessary libraries:
 
